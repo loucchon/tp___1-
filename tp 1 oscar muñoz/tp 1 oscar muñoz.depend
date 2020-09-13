@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1599881421 source:d:\pc\documents\tp 1 oscar muñoz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+	"funcion.c"
+
+1599879223 d:\pc\documents\tp 1 oscar muñoz\funcion.h
+
+1599790820 d:\pc\documents\tp 1 oscar muñoz\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
